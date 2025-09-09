@@ -12,11 +12,11 @@ A working Serial communication protocol between the two boards.
 I'm not sure of the exact library versions I used, but the core concepts are here. Use this as a starting point to understand the architecture, then build your own amazing project on top of it.
 
 Materials Used:
-Raspberry Pi 4 (Recommended to get a fan for it as well)
-Arduino Uno
-Arduino Uno Motor Bridge
-64GB Micro SD Card
-Pi Camera 2
-Plastic Car Chassis
-4 DC Motors
-4 Wheels
+  Raspberry Pi 4 (Recommended to get a fan for it as well)
+  Arduino Uno
+  Arduino Uno Motor Bridge
+  64GB Micro SD Card
+  Pi Camera 2
+  Plastic Car Chassis
+  4 DC Motors
+  4 Wheels
